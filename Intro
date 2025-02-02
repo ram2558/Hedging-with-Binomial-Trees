@@ -1,0 +1,9 @@
+Hedging Strategies
+Project: Hedging with Binomial Trees
+Goal: Create a system to implement and visualize hedging strategies for European and exotic options.
+Features:
+Build a binomial tree model.
+Simulate the hedging process using delta hedging.
+Compare the portfolio value with and without hedging.
+Advanced Add-On: Include stochastic volatility models to study how volatility impacts hedging.
+Tools: Python, pandas, Plotly.
